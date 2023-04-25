@@ -7,7 +7,8 @@
   <script src="script.js"></script>
 </head>
 <body>
-  <h1>Bienvenidos Hola Mundo</h1>
+  <h1>Bienvenidos Hello world! Welcome</h1>
   <h2>ChoicesPracticas Profesionalizantes2023</2>
+  No tengo php
 </body>
 </html>
